@@ -1,0 +1,44 @@
+.classic{
+    padding-top: 4rem;
+    font-family: 'Brush Script MT', cursive;
+   
+    
+}
+.classic h3{
+    font-size: 40px;
+    color: rgb(125, 241, 102);
+    
+}
+
+.falooda img{
+    width: auto;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+
+.league h3{
+    font-size: 40px;
+    color: rgb(125, 241, 102);
+    font-family:  'Brush Script MT', cursive;
+    margin: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .falooda img{
+        height: 10rem;
+        width: 10rem;
+        margin: 0 auto;
+    }
+
+   }
+
+   .great h3{
+    font-size: 40px;
+    color: rgb(125, 241, 102);
+    font-family:  'Brush Script MT', cursive;
+    margin: 20px;
+}
